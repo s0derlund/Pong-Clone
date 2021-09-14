@@ -1,2 +1,2 @@
 # Pong-Clone
-Pong Clone in C++
+Pong Clone in C++ with SFML
